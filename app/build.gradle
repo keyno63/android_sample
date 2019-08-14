@@ -4,6 +4,9 @@ apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-android-extensions'
 
+apply plugin: 'kotlin-kapt' //optional
+apply from: rootProject.file('gradle/generated-kotlin-sources.gradle') //only for Android projects
+
 android {
     compileSdkVersion 29
     buildToolsVersion "29.0.2"
@@ -32,4 +35,13 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test:runner:1.2.0'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+
+    def arrow_version = "0.9.1-SNAPSHOT"
+    implementation "io.arrow-kt:arrow-core-data:$arrow_version"
+    implementation "io.arrow-kt:arrow-core-extensions:$arrow_version"
+    implementation "io.arrow-kt:arrow-syntax:$arrow_version"
+    implementation "io.arrow-kt:arrow-typeclasses:$arrow_version"
+    implementation "io.arrow-kt:arrow-extras-data:$arrow_version"
+    implementation "io.arrow-kt:arrow-extras-extensions:$arrow_version"
+    kapt    "io.arrow-kt:arrow-meta:$arrow_version"
 }
