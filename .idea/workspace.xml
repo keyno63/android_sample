@@ -1,239 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7dc421a-2ca1-43c4-9a4f-8770f66521ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/COMMIT_EDITMSG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HEAD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KtHelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/jp/co/who/kthelloworld/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/jp/co/who/kthelloworld/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/jp/co/who/kthelloworld/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/description" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hooks/applypatch-msg.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hooks/commit-msg.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hooks/fsmonitor-watchman.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hooks/post-update.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hooks/pre-applypatch.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hooks/pre-commit.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hooks/pre-push.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hooks/pre-rebase.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hooks/pre-receive.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hooks/prepare-commit-msg.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hooks/update.sample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/info/exclude" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/HEAD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/refs/heads/master" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/refs/remotes/origin/HEAD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/refs/remotes/origin/master" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/06/7f302b99682e34cc029896a5d9e24da22519b9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/09/7c007bb9e9c7b8da65e499a31b95e3a9c11fa7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/0b/ee1e10b801ed3a27e3ac5b359f251ec6f6c467" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/0d/025f9bf6b67c63044a36a9ff44fbc69e5c5822" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/0e/ddb6a6a3771de78943f16721bab1eb2c6cf1f1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/14/503cd1ae181fadb3b9b7309e2e5293e13358c1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/14/ed0af35023e4f1901cf03487b6c524257b8483" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/15/a15b218a29e09c9190992732698d646e4d659a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/19/9d16ede38cfde6d8ff5c75d5d04785ae8c504d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/1f/6bb290603d7caa16c5fb6f61bbfdc750622f5c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/21/7c90d703526010bd2836a27e6a8f9e879631e3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/23/bce32ee5e3ff845785bbd9109aecad9b4ab73c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/23/f56d1c30e37559b47776e01ed8a1416143b54d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/26/e8791606c0d595d3d88c001ff4afde0ffbbbb0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/28/704edfdc0c8dbb1451e530cbb4a848cc464588" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/29/96d531255e06fae876df257e8237225a4906b7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/2c/18de9e66108411737e910f5c1972476f03ddbf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/2d/abebd03d470465af782b21fc690523818d3983" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/2f/6dceffcf401c665f250177f1e112b9d258c352" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/2f/a89acb3e53714d4d4190f3d09719e5d23aa806" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/2f/ee65b94ee13bbbc133156df903fda24740790a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/37/a750962da6f2b31810e85c8acae1081de7f58c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/38/34894221fcdf6f7963d1b9d65dad396e6db9e4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/38/d23ab0077da2dec4fe5610ae0c8adb3ed7475e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/3e/6024b402c1f184e8abf369be5d419bc96f421f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/3f/ea1219cf0b8fe171f01dbef89e14655a3c61d9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/42/2fc536080655eca93d5d34c8602c934d53e811" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/45/0397a069b5e2af10dec424aa4b2c185f1a7473" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/46/0df49c6aedcfd02b1120c7ebc7cf450a31c455" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/47/9fa2d9628ca7f5443f5e0eac325173d1747d92" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/48/94c33831577756816654f6bb316dec7606ebf3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/49/0b64b79b7f013d21f5b026f26873edd4884c56" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/4a/a74413d9742da42ae8700fb1ead8ae7ea8ed33" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/4a/c7a9a1276ab517e476dffd7026861340375d2c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/4f/35b0daa978edf16b0877816591be0ee5518b99" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/4f/c244418b5fe524789352d1b1b52d1b22045f3a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/50/cf2b92b850e340e541cafa050973708969530b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/52/75604ca3e6a6fb6f22ddaf6108df5ebf4f22a7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/53/f5c6cbd083443e0eed5460191d7eeee99efb45" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/55/c152c93f78904c405ceb35ef5430af31e652a3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/58/55a297fee62f1e139ecda40e8b9a447001369e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/58/85930df6d10edf3d6df40d6556297d11f953da" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/5a/e7f50f04caa50f96c66847adc0c7eaa9b2da9b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/5c/4dd4e8722443c464234949143da8f5d30be215" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/61/3a87cc443483befeda23e804017e322f098973" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/64/ba76f75e9ce021aa3d95c213491f73bcacb597" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/64/ff516e6d24b4debb91bc8d823ba57baf10d9a2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/68/bf8139906fc4873bb1f7c23d53e655477cf38f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/69/7a389bf5554011ad03b200e0db8fdf7650a436" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/69/b22338c6510250df3b43672635120dbce2fa49" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/6b/bd939d67554fac3000c84127074da9e2eb38da" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/6e/8c229cfce166960c4920c8af21fca20af5c5f7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/6f/f47983a5c98dd4fa322fac160c7713d11b5499" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/72/49d636e5990f5915762752e519d4536f1e2073" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/72/ca821007ead7aa0d6a4952e16519626c2ade95" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/73/44d8dc0aa3e97dbd983f74cde593732c215c26" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/76/67f25f427d757a328f613a0846b515c04446c8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/76/91e03668e7546a043e905edaa5e8e5e02f4dce" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/77/4a1c1fe71b622a9fab75655a51595593cbd3b4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/78/a131b495bc0ae00137b4d114809d867d240935" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/79/6b96d1c402326528b4ba3c12ee9d92d0e212e9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/7b/fa1b45a2c3659c64d46f635491060ea9d2a596" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/7f/68460d8b38ac04e3a3224d7c79ef719b1991a9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/80/c915d99c8002b9290c851f459c1d9e78ef8de6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/81/f580c9ea47cd6e94ce50aa9dd2908bc9963e5b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/82/a5c352420d748e55a96b8f576bc0f0688a8469" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/83/2796ce1099454347135525933d852fc7ff69ea" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/83/e1a45bf5b6505ea87b24c2256ebdd4bef01d3a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/84/97341bb24b64e7978738d567cac3f92b08fbe1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/89/8f3ed59ac9f3248734a00e5902736c9367d455" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/8a/af239b0e3a37468bbfb7419f64ff19ee186ea1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/8b/3bce344a10030940d7b49d9219ecaf791a3735" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/8b/89b16eb994f66e82a4d70ccb5d71c25cc37295" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/94/7e2512f67ce099395001ceba1f3f026a2376fb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/94/a25f7f4cb416c083d265558da75d457237d671" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/97/1b6c0777ddc5dbc565e364accda04a9ea97a96" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/99/20f545a2c6668a37dc87b3c4c9f354c0f3a76f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/9c/44a18e10472687d1212ceeddba86d1a94bf9b8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/a1/ad41111f283054d363f7ff5024b196cb668d6f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/a2/2dec46017e3b4fc1dc50547848235937de400f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/a3/be9117c93e37c1e0f06bb810b7b43389cf1dec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/a5/e7c76cebf34ce853adf4ef0b21e249e2d27632" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/a5/eaca5bef3195718027663ab24ef255f97e7da1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/a7/461baaec0c12d70270e1a0baaab3bb29da85ed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/a7/8a76de7fe3f21296aa0eecfe49b2cb2b7b2d58" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/a9/0c7db9342df51a4fcdabe0e7901c19ad343685" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/aa/2ae5f32c26529889d115f572cb9cdadcfb0964" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/ac/4006490f7a283129a64cc68c56d674da55a2be" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/ad/2274b324d3b4a059f9f5b2fb3eebf4c60ce0a8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/ad/b434e16f48105cb70fb1c82986564f854c441b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/b0/81d1c43409c2e10c16216ddf180b299678171c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/b0/907cac3bfd8fbfdc46e1108247f0a1055387ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/b0/e929bfc80ed4d709368f82c966991dc1d15154" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/b4/dabdc1dd7899cfbf4c50abfe51ca5446fe78fd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/b6/1d24badae8bab3b82211a246e6cd5f8c9cdcd6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/b7/b9f879f9d57495255fcf78d86007fa989bd8c8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/b7/e613a0d7f5fc24e770a62f0f333029fc53b8be" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/bd/59c425809ac089664970f24099c0b8d0ed27bf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/be/ed3cdd2c32af5114a7dc70b9ef5b698eb8797e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/c3/26f5dbc9750b6459efda839f13e5def0c2bed1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/c4/6dc10c4fd05f1fcadf10cdede5a7bd0e9c62e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/c5/e7e3ab9cca8def764525eaa05d5d7699f0d486" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/c9/6c76cf6954031bc25cfd2ac7d6865d83df29c3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/ca/ca4ac1c7416054486146cb9d75cf34fec6392b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/cb/e7df03b7672f215c334486cdd02b70dc86074c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/cc/a3db7c87a0af10145d7220dca01e00c6cd061a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/cc/cdd3d517fc5249beaefa600691cf150f2fa3e6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/ce/87538dde607753e0939733b74c783674dd0030" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/d1/4222540ceab588226fa86d398474616aa60ce5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/d1/9a6080f2178c8ec213de89e3970fc0e6c9c0e8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/d6/ae72e10093eb82c3ec0842cf926d677c3034f9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/d6/bb0e9c0c0ae0d7a599e6e1b2a195a64b75c800" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/d8/ae03154975f397f8ed1b84f2d4bf9783ecfa26" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/d9/d101356b09c7b55c0d8d5ff185ef885611c097" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/da/e5e082342fcdeee5db8a6e0b27028e2d2808f5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/de/e2cf8081cd48a367b4e438f92b558bea0bbb2c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/df/fca3601eba7bf5f409bdd520820e2eb5122c75" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/e2/21b6a927b29a3669486446c7c3b96044dcf80e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/e5/ed46597ea8447d91ab1786a34e30f1c26b18bd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/e6/85d13a2b458f207c3978506a1882f01eb71d93" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/e7/b4def49cb53d9aa04228dd3edb14c9e635e003" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/e9/5643d6a2ca62258464e83c72f5156dc941c609" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/eb/29485df12797f2809a45e162e9c8cf631cfc15" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/ec/a70cfe52eac1ba66ba280a68ca7be8fcf88a16" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/f0/7cb39cfd6f0a28eb57641c5392fa93a606cc70" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/f1/b424510da51fd82143bc74a0a801ae5a1e2fcd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/f2/e418b7aff69b48ee5064610d4b0d35442836bb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/f4/f25a81d9b6c86e485d93dfe75f8d161bf73c58" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/f5/1a1c51aa35af53e0c95ae012a05066e30351ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/f6/b961fd5a86aa5fbfe90f707c3138408be7c718" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/f9/2fb426a6397a96bdbc91087cecbcfbb2f72478" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/f9/c9a3064066c5386a2a4a93d68ae827f35500c7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/pack/pack-ebda8391ffab993bc4ac86fea9d2c210ba0b37c0.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objects/pack/pack-ebda8391ffab993bc4ac86fea9d2c210ba0b37c0.pack" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packed-refs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/refs/heads/master" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/refs/remotes/origin/HEAD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/refs/remotes/origin/master" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_2_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_0_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_0_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_2_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="b7dc421a-2ca1-43c4-9a4f-8770f66521ea" name="Default Changelist" comment="remove idea files.">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScalaHelloWorld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/jp/co/who/scalahelloworld/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/jp/co/who/scalahelloworld/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/scala/jp/co/who/scalahelloworld/MainActivity.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/jp/co/who/scalahelloworld/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle-android-scala-plugin-1.5-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -249,17 +27,20 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view />
       </state>
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/jp/co/who/kthelloworld/MainActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="38" />
               <folding>
                 <element signature="e#32#104#0" expanded="true" />
               </folding>
@@ -267,7 +48,77 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="53">
+              <caret line="30" column="60" selection-start-line="29" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle/generated-kotlin-sources.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>arrow-core-data</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -276,145 +127,64 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/java/jp/co/who/kthelloworld/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="43" />
+    <option name="x" value="-1714" />
+    <option name="y" value="-3" />
     <option name="width" value="1400" />
     <option name="height" value="783" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="AndroidView">
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="KtHelloWorld" type="1abcf292:AndroidViewProjectNode" />
-              <item name="KtHelloWorld" type="462c0819:PsiDirectoryNode" />
+              <item name="KtHelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KtHelloWorld" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="KtHelloWorld" type="1abcf292:AndroidViewProjectNode" />
-              <item name="KtHelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="KtHelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KtHelloWorld" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="KtHelloWorld" type="1abcf292:AndroidViewProjectNode" />
-              <item name="KtHelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="KtHelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KtHelloWorld" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="KtHelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KtHelloWorld" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="KtHelloWorld" type="1abcf292:AndroidViewProjectNode" />
-              <item name="KtHelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KtHelloWorld" type="1abcf292:AndroidViewProjectNode" />
-              <item name="KtHelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KtHelloWorld" type="1abcf292:AndroidViewProjectNode" />
-              <item name="KtHelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KtHelloWorld" type="1abcf292:AndroidViewProjectNode" />
-              <item name="KtHelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jp" type="462c0819:PsiDirectoryNode" />
-              <item name="co" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KtHelloWorld" type="1abcf292:AndroidViewProjectNode" />
-              <item name="KtHelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jp" type="462c0819:PsiDirectoryNode" />
-              <item name="co" type="462c0819:PsiDirectoryNode" />
-              <item name="who" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KtHelloWorld" type="1abcf292:AndroidViewProjectNode" />
-              <item name="KtHelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jp" type="462c0819:PsiDirectoryNode" />
-              <item name="co" type="462c0819:PsiDirectoryNode" />
-              <item name="who" type="462c0819:PsiDirectoryNode" />
-              <item name="kthelloworld" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KtHelloWorld" type="1abcf292:AndroidViewProjectNode" />
-              <item name="KtHelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="jp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KtHelloWorld" type="1abcf292:AndroidViewProjectNode" />
-              <item name="KtHelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="jp" type="462c0819:PsiDirectoryNode" />
-              <item name="co" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KtHelloWorld" type="1abcf292:AndroidViewProjectNode" />
-              <item name="KtHelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="jp" type="462c0819:PsiDirectoryNode" />
-              <item name="co" type="462c0819:PsiDirectoryNode" />
-              <item name="who" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KtHelloWorld" type="1abcf292:AndroidViewProjectNode" />
-              <item name="KtHelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="jp" type="462c0819:PsiDirectoryNode" />
-              <item name="co" type="462c0819:PsiDirectoryNode" />
-              <item name="who" type="462c0819:PsiDirectoryNode" />
-              <item name="scalahelloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="KtHelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KtHelloWorld" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="device.picker.selection" value="Pixel_2_API_28" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
   </component>
   <component name="RunDashboard">
@@ -437,7 +207,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -491,6 +261,9 @@
       </method>
     </configuration>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b7dc421a-2ca1-43c4-9a4f-8770f66521ea" name="Default Changelist" comment="" />
@@ -499,41 +272,117 @@
       <option name="presentableId" value="Default" />
       <updated>1565792431367</updated>
     </task>
+    <task id="LOCAL-00001" summary="arrow-kt ライブラリ追加.">
+      <created>1565800007726</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565800007726</updated>
+    </task>
+    <task id="LOCAL-00002" summary="remove idea files.">
+      <created>1565800156523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565800156523</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="43" width="1400" height="783" extended-state="0" />
+    <frame x="-1714" y="-3" width="1400" height="783" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" visible="true" weight="0.3298969" />
-      <window_info id="Structure" side_tool="true" />
-      <window_info id="Build Variants" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="Resources Explorer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Captures" order="0" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="TODO" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3299566" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.3299566" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="sbt" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.3298969" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Find" />
+      <window_info anchor="bottom" id="TODO" order="0" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.3299566" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info active="true" anchor="bottom" id="Build" order="5" visible="true" weight="0.3299566" />
+      <window_info anchor="bottom" id="Logcat" order="6" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="right" id="Preview" weight="0.3298969" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="sbt" order="4" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="arrow-kt ライブラリ追加." />
+    <MESSAGE value="remove idea files." />
+    <option name="LAST_COMMIT_MESSAGE" value="remove idea files." />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gradle/generated-kotlin-sources.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/jp/co/who/kthelloworld/MainActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="38" />
           <folding>
             <element signature="e#32#104#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="30" column="60" selection-start-line="29" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
         </state>
       </provider>
     </entry>
