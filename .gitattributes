@@ -1,2 +1,2 @@
-hooks/* linguist-documentation
-.idea/* linguist-documentation
+hooks/* linguist-vendored
+.idea/* linguist-vendored
