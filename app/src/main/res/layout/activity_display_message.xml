@@ -8,8 +8,8 @@
         tools:context=".DisplayMessageActivity">
 
     <TextView
-            android:text="TextView"
+            android:text="@string/textview"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" tools:layout_editor_absoluteY="96dp"
+            android:layout_height="16dp" tools:layout_editor_absoluteY="96dp"
             tools:layout_editor_absoluteX="152dp" android:id="@+id/textView"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
