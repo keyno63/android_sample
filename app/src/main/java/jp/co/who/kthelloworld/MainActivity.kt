@@ -23,4 +23,11 @@ class MainActivity : AppCompatActivity() {
         intent.putExtra(EXTRA_MESSAGE, message)
         startActivity(intent)
     }
+
+    // Http ボタンクリック時
+    fun moveHttpActivity(view: View) {
+        val intent: Intent = Intent(this@MainActivity,
+            HttpActivity::class.java)
+        startActivity(intent)
+    }
 }
