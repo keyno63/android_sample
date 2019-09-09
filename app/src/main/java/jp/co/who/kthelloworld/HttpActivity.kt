@@ -38,6 +38,8 @@ class HttpActivity : AppCompatActivity() {
 
     fun syncHttp(view: View) {
         val textView: TextView = findViewById(R.id.textView)
-        textView.setText(sendSyncHttp(url))
+        val str = sendSyncHttp(url)
+        println(str)
+        textView.setText(str)
     }
 }
